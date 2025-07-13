@@ -1,0 +1,5 @@
+aiogram
+ydb
+matplotlib
+boto3
+aiofiles
